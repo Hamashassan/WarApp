@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "03582269aba7f98b061c8c4cb62a2672"
+build_time: [1611359889, 43321000]
+inputs:
+  "/Users/hamashassan/Desktop/Upwork Projects/Pratice iOS/WarApp/WarApp/ViewController.swift": [1611359888, 974882399]
+  "/Users/hamashassan/Desktop/Upwork Projects/Pratice iOS/WarApp/WarApp/AppDelegate.swift": [1611354368, 750820433]
+  "/Users/hamashassan/Desktop/Upwork Projects/Pratice iOS/WarApp/WarApp/SceneDelegate.swift": [1611354368, 753970144]
